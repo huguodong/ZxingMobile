@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\zxing.net.mobile-1.4.7\samples\Sample.Android\Sample.Android\obj\Debug\assemblies\ZXingSampleAndroid.dll
+C:\Users\Administrator\Desktop\zxing.net.mobile-1.4.7\samples\Sample.Android\Sample.Android\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Administrator\Desktop\zxing.net.mobile-1.4.7\samples\Sample.Android\Sample.Android\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Administrator\Desktop\zxing.net.mobile-1.4.7\samples\Sample.Android\Sample.Android\obj\Debug\assemblies\System.Core.dll
+C:\Users\Administrator\Desktop\zxing.net.mobile-1.4.7\samples\Sample.Android\Sample.Android\obj\Debug\assemblies\System.dll
+C:\Users\Administrator\Desktop\zxing.net.mobile-1.4.7\samples\Sample.Android\Sample.Android\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Administrator\Desktop\zxing.net.mobile-1.4.7\samples\Sample.Android\Sample.Android\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Administrator\Desktop\zxing.net.mobile-1.4.7\samples\Sample.Android\Sample.Android\obj\Debug\assemblies\zxing.monoandroid.dll
+C:\Users\Administrator\Desktop\zxing.net.mobile-1.4.7\samples\Sample.Android\Sample.Android\obj\Debug\assemblies\ZXing.Net.Mobile.dll
